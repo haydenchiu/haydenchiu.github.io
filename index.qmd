@@ -1,0 +1,7 @@
+---
+title: "."
+---
+
+This is Hayden's website. It is still under construction. So stay tuned.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
