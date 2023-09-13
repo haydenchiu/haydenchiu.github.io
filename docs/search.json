@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello world! This is Hayden. I am a MDS student in UBC."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": ".",
+    "section": "",
+    "text": "This is Hayden’s website. It is still under construction. So stay tuned.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
